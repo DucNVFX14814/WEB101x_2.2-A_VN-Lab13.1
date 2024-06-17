@@ -1,0 +1,23 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url ("./image/sky1.jpg");
+}
+
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url ("./image/sky2.jpg");
+}
+
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url ("./image/sky3.jpg");
+}
+
+.bg-img1 img,
+.bg-img2 img,
+.bg-img3 img {
+    max-height: 100vh !important;
+}
